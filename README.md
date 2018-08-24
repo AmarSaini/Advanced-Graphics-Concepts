@@ -8,6 +8,9 @@ Note: In order to run these projects, the files must be dropped in the SIG folde
    - Built lots of parameterized object primitives and converted them into collections of triangles, or meshes. These models were represented as indexed triangles.
    - Implemented a scene graph where the gear object primitives rotate to form a physically correct gear system. (Animation)
    - The report for this project can be found here: [Primitives and Meshes Report](https://github.com/AmarSaini/Advanced-Graphics-Concepts/blob/master/Primitives%20and%20Meshes/Primitives%20and%20Meshes%20Report.pdf)
+   
+![Primitives and Meshes Preview](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Primitives%20and%20Meshes/preview.PNG)
+   
 2. Parametric Surfaces
    - Built curved objects based on parametric Bézier patches.
    - Implemented functionality to control the polyhedron cage of the curved object.
