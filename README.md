@@ -18,6 +18,12 @@ Note: In order to run these projects, the files must be dropped in the SIG folde
    - Implemented functionality to change the resolution/number of triangles in the surface.
    - Implemented a shadow of the curved object, via projection matricies.
    - The report for this project can be found here: [Parametric Surfaces Report](https://github.com/AmarSaini/Advanced-Graphics-Concepts/blob/master/Parametric%20Surfaces/Parametric%20Surfaces%20Report.pdf)
+   
+![Parametric Surfaces Preview](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Parametric%20Surfaces/preview.PNG)
+   
 3. Ray Tracing
    - A Ray Tracing project with spheres that hold properties of reflectivity, transparency, and refraction.
    - The report for this project can be found here: [Ray Tracing Report](https://github.com/AmarSaini/Advanced-Graphics-Concepts/blob/master/Ray%20Tracing/Ray%20Tracing%20Report.pdf)
+   
+![Ray Tracing Preview1](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Ray%20Tracing/preview1.PNG)
+![Ray Tracing Preview2](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Ray%20Tracing/preview2.PNG)
