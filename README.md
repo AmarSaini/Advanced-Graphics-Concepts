@@ -25,5 +25,4 @@ Note: In order to run these projects, the files must be dropped in the SIG folde
    - A Ray Tracing project with spheres that hold properties of reflectivity, transparency, and refraction.
    - The report for this project can be found here: [Ray Tracing Report](https://github.com/AmarSaini/Advanced-Graphics-Concepts/blob/master/Ray%20Tracing/Ray%20Tracing%20Report.pdf)
    
-![Ray Tracing Preview1](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Ray%20Tracing/preview1.PNG)
 ![Ray Tracing Preview2](https://raw.githubusercontent.com/AmarSaini/Advanced-Graphics-Concepts/master/Ray%20Tracing/preview2.PNG)
