@@ -1,0 +1,18 @@
+I included 6 results. 
+
+Some of them have different number of spheres, or different resolution.
+
+For each result, I included a JPG, GIF (animation), and an image of the scene on SIG.
+
+I organized the results by file type (JPG, GIF, SIG image).
+
+Also, some of the GIFS have had their quality reduced.
+
+Here's some information about each result:
+
+Result 1: 10 spheres. 640 x 480 pixels. 10 images for the GIF.
+Result 2: 10 spheres. 640 x 480 pixels. 10 images for the GIF.
+Result 3: 10 spheres. 640 x 480 pixels. 40 images for the GIF.
+Result 4: 10 spheres. 640 x 480 pixels. 50 images for the GIF.
+Result 5: 7 spheres. 1200 x 900 pixels. 40 images for the GIF.
+Result 6: 7 spheres. 3200 x 1800 pixels. 40 images for the GIF. Took around 30 minutes to render.
